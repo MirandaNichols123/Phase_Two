@@ -1,0 +1,2 @@
+Centroids:
+Final SSE: 78.851441426146
